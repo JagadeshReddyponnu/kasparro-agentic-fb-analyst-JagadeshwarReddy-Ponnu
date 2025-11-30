@@ -1,0 +1,26 @@
+{
+  "summary": "Automated performance insights generated from Facebook Ads data.",
+  "top_campaigns": [
+    {
+      "campaign_name": "Brand Awareness - Q1",
+      "ctr": 3.4,
+      "cpc": 0.21,
+      "spend": 1520,
+      "result": "Strong CTR due to high-engagement short video creatives."
+    }
+  ],
+  "low_performing_campaigns": [
+    {
+      "campaign_name": "Retargeting - Broad",
+      "ctr": 0.8,
+      "cpc": 0.92,
+      "spend": 840,
+      "issue": "Weak audience relevance and outdated creatives."
+    }
+  ],
+  "key_insights": [
+    "Short video creatives consistently outperform static images.",
+    "Retargeting audiences need refinement due to low CTR.",
+    "CPC is lowest on mobile-only placements."
+  ]
+}
