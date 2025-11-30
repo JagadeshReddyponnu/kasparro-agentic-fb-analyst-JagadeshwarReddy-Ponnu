@@ -1,0 +1,22 @@
+{
+  "creatives": [
+    {
+      "creative_id": "CR-001",
+      "type": "Video",
+      "thumbnail": "creative1.png",
+      "ctr": 4.1,
+      "cpc": 0.18,
+      "spend": 320,
+      "analysis": "High engagement due to strong hook in first 2 seconds."
+    },
+    {
+      "creative_id": "CR-002",
+      "type": "Image",
+      "thumbnail": "creative2.png",
+      "ctr": 1.2,
+      "cpc": 0.65,
+      "spend": 290,
+      "analysis": "Weak CTA placement, needs redesign."
+    }
+  ]
+}
